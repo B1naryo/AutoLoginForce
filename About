@@ -8,3 +8,11 @@ This program allows me to observe real-time automated attacks on a login page us
 Using it is straightforward - simply modify the input variables and the URL, and then execute the script. 
 I won't go into further detail because just providing this code is already a challenging task. 
 If you struggle to use it, I'm sorry, but it may indicate that this field is not the right fit for you.
+
+Eu criei esse programa porque não encontrei nenhum programa de força bruta que me agradasse. 
+A maioria dos programas de força bruta costuma ser complexo e, às vezes, pouco confiável. 
+Por isso, decidi desenvolver um programa que atendesse às minhas necessidades e funcionasse de forma confiável. 
+Esse programa me permite observar ataques automatizados em tempo real em uma página de login usando uma lista de senhas ou uma lista de payloads de injeção SQL.
+Utilizá-lo é simples - basta modificar as variáveis de entrada de um formulário e a URL, e depois executar o script. 
+Não vou entrar em mais detalhes porque o simples fato de disponibilizar esse código já é uma tarefa desafiadora.
+Se você tiver dificuldade em utilizá-lo, lamento, mas isso pode indicar que essa área não é adequada para você.
